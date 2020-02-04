@@ -11,7 +11,6 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Scope;
 
 @Configuration
-@ComponentScan({"com.riztech"})
 public class AppConfig {
 
     /*@Bean(name = "speakerRepository")
